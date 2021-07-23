@@ -1,3 +1,4 @@
+/*
 import 'package:veiculos/models/veiculos.dart';
 
 const listaVeiculos = [
@@ -19,4 +20,4 @@ const listaVeiculos = [
 
   Veiculo(id: 11,idMontadora: 6,nome: "Jeep Wragler",valor: 405000,imagem: "https://www.revistafullpower.com.br/wp-content/uploads/2019/05/je02-750x422.jpg"),
   Veiculo(id: 12,idMontadora: 6,nome: "Jeep Compass",valor: 230000,imagem: "https://www.automotivebusiness.com.br/fotos/X_noticia_32890.jpg"),
-];
+];*/
